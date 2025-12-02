@@ -1,5 +1,3 @@
-- 👨🏽‍💻 I’m interested in Cybersecurity
-- ⭕ I’m currently learning Red Teaming
 # Hi Friend, I’m @MO00X 💀
 
 A junior web developer interested in cybersecurity, currently learning Red Teaming.
