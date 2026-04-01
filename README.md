@@ -1,4 +1,4 @@
-# Hi Friend, I’m Mohameed_Ali 💀
+# Hi Friend, I’m Mohameed_Ali 
 
 A junior web developer interested in cybersecurity, currently learning Red Teaming.
 
